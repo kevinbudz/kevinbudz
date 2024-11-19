@@ -1,9 +1,5 @@
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <img align="left" height="120" src="https://cdn.discordapp.com/attachments/1308326848853184523/1308326858818850827/image.png?ex=673d89d6&is=673c3856&hm=a9f54329bf630de06e60fa32608a46fdcb128b7a22d048cebde4ab034366e35f&"  />
 
 ###
