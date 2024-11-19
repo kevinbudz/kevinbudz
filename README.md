@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="125" src="https://cdn.discordapp.com/attachments/1238682522334920765/1291849910903115899/image.png?ex=673cebfc&is=673b9a7c&hm=c6c44634ab315577f56fb9cdf6d43647060d4c2b82a9d2244bf16c4b89aab131&"  />
+<img align="left" height="120" src="https://cdn.discordapp.com/attachments/1308326848853184523/1308326858818850827/image.png?ex=673d89d6&is=673c3856&hm=a9f54329bf630de06e60fa32608a46fdcb128b7a22d048cebde4ab034366e35f&"  />
 
 ###
 
